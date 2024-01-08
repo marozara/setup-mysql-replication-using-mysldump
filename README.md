@@ -1,1 +1,1 @@
-# setup-mysql-replication-using-mysldump
+# How to setup mysql replication using mysqldump ?
